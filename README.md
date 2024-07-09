@@ -54,7 +54,7 @@ This comprehensive analysis provided valuable demographic insights, informing ta
  4. Age-Specific Strategies:
     - Youth Engagement: For younger age brackets, consider sponsoring or partnering with local schools, colleges, and sports events to create brand awareness and 
       drive sales. Promote bikes that appeal to younger customers through social media and influencer marketing.
-    - Middle-Aged and Older Adults:** Highlight features that appeal to middle-aged and older adults, such as comfort, durability, and health benefits of cycling. 
+    - Middle-Aged and Older Adults: Highlight features that appeal to middle-aged and older adults, such as comfort, durability, and health benefits of cycling. 
       Offer workshops and events focusing on biking as a healthy lifestyle choice.
 
  5. Product Portfolio Diversification:
@@ -72,7 +72,7 @@ This comprehensive analysis provided valuable demographic insights, informing ta
   By implementing these recommendations, the bike store can better align its marketing strategies, product offerings, and customer engagement efforts with the key 
   observations from the data analysis. This targeted approach will help increase sales, enhance customer satisfaction, and drive long-term growth.
 
-### Skills exhibited
+### Skills Exhibited
 
 Data Analytics · Data Modeling · Data Visualization · Datasets · Statistical Data Analysis · Pivot Tables · Microsoft Excel · Creative Design · Data Analysis
 
