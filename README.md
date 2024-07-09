@@ -4,6 +4,12 @@
 In this project, I analyzed the demographic data of bike buyers, focusing on income and gender differences between those who purchase bikes and those who do not. Additionally, I examined the distance traveled by bike buyers and identified key age brackets. I also analyzed purchasing attitudes based on marital status, region, and occupation. 
 
 
+![Screenshot 2024-06-27 140101](https://github.com/JoyEssien/Bike-Buyers-Demographic-Analysis/assets/175028787/49443635-fd29-4125-a819-73783da92a3c)
+
+
+
+
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "Project Dataset.xlsx" file, containing detailed information about each sale made by the company.
