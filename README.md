@@ -82,6 +82,8 @@ This comprehensive analysis provided valuable demographic insights, informing ta
 
 Data Analytics · Data Modeling · Data Visualization · Datasets · Statistical Data Analysis · Pivot Tables · Microsoft Excel · Creative Design · Data Analysis
 
+😄
+👏
 
 
 
